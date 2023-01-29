@@ -1,0 +1,3 @@
+A szamok.txt tartalma: 
+    II/F:
+	A fejek szám: 0
